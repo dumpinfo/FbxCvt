@@ -1,0 +1,3 @@
+{
+"Type": "var3d_ramp"
+}
